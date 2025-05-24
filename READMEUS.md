@@ -4,7 +4,6 @@ register-edu
 
 The Free Second Level Domain Education Platform is a platform dedicated to providing free second level domain allocation, resolution, and management services for educational purposes. Its target users include educators, students, and related institutions, aiming to provide them with convenient and secure domain name services.
 
-This platform is dedicated to providing free subdomain distribution, DNS resolution, and management services specifically for educational purposes. Its target users include educators, students, and related institutions, aiming to deliver convenient and secure domain services for academic use.
 
 TXT Record Added: (For Vercel domain verification only)
 
@@ -13,9 +12,9 @@ Each new user is granted a subdomain with a default validity of 300 days. Renewa
 
 In the event of force majeure (e.g., natural disasters, changes in laws and regulations, or systemic risks), the platform reserves the right to suspend or terminate services as necessary. However, unless such circumstances arise, the platform is intended to remain open long-term.
 
-Official Website: https://regdm.edu.deal
+[Official Website](https://regdm.edu.deal): https://regdm.edu.deal
 
-Please read our User Agreement carefully.
+Please read our [User Agreement](https://regdm.edu.deal/static/user_agreement.html) carefully.
 Important: Prohibited Uses and Behaviors
 https://regdm.edu.deal/static/user_agreement.html
 
