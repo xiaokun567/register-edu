@@ -1,4 +1,5 @@
 register-edu
+
 [简体中文](https://github.com/xiaokun567/register-edu/blob/main/README.md)/[English](https://github.com/xiaokun567/register-edu/blob/main/READMEUS.md)
 
 Free .edu.deal Subdomains
