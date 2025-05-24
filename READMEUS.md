@@ -10,7 +10,7 @@ TXT Record Added: (For Vercel domain verification only)
 New User Registration Policy:
 Each new user is granted a subdomain with a default validity of 300 days. Renewal will be available within 30 days before expiration and is free for another 300 days. By default, each user is allowed one subdomain. For special requests, please contact us with details about your intended use — we will consider additional allocations on a case-by-case basis.
 
-In the event of force majeure (e.g., natural disasters, changes in laws and regulations, or systemic risks), the platform reserves the right to suspend or terminate services as necessary. However, unless such circumstances arise, the platform is intended to remain open long-term.
+**In the event of force majeure (e.g., natural disasters, changes in laws and regulations, or systemic risks), the platform reserves the right to suspend or terminate services as necessary. However, unless such circumstances arise, the platform is intended to remain open long-term.**
 
 [Official Website](https://regdm.edu.deal): https://regdm.edu.deal
 
