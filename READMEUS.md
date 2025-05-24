@@ -49,4 +49,5 @@ Report Email: admin@xmi.im
 The platform is committed to investigating and handling reports promptly to ensure the legitimacy and security of our services.
 
 Note: Users must provide accurate educational information during registration.
+
 ![image](https://github.com/user-attachments/assets/9b2e000f-a77b-4b6b-aa85-a8720a143d65)
