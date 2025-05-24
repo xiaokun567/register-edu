@@ -2,7 +2,7 @@ register-edu
 
 [简体中文](https://github.com/xiaokun567/register-edu/blob/main/README.md)/[English](https://github.com/xiaokun567/register-edu/blob/main/READMEUS.md)
 
-Free .edu.deal Subdomains
+The Free Second Level Domain Education Platform is a platform dedicated to providing free second level domain allocation, resolution, and management services for educational purposes. Its target users include educators, students, and related institutions, aiming to provide them with convenient and secure domain name services.
 
 This platform is dedicated to providing free subdomain distribution, DNS resolution, and management services specifically for educational purposes. Its target users include educators, students, and related institutions, aiming to deliver convenient and secure domain services for academic use.
 
