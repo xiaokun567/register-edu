@@ -6,8 +6,8 @@
 
 新用户注册默认有效期300天，续费将在到期30天内开放（免费续费300天），默认为每位用户提供 1 个二级域名。如有特殊需求，请联系我们并说明用途，我们将酌情考虑增配。
 **如遇不可抗力因素（如自然灾害、法律法规变更或系统性风险等），平台有权在必要时暂停或终止服务，敬请用户理解与支持。如果没有应该会长期开放。**
+官网链接：https://regdm.edu.deal
 
-https://regdm.edu.deal
 请详细阅读用户协议。强调：禁止用途与行为
 https://regdm.edu.deal/static/user_agreement.html
 ### 🌐 平台功能概览
@@ -33,4 +33,5 @@ https://regdm.edu.deal/static/user_agreement.html
 平台承诺在收到举报后第一时间核查处理，确保服务的合法性和安全性。
 
 用户注册需要如实填写教育信息
+
 ![image](https://github.com/user-attachments/assets/96ae6399-9b1d-4a12-8fc4-1d8ca7472781)
