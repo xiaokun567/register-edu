@@ -1,4 +1,6 @@
 # register-edu
+[简体中文](https://github.com/xiaokun567/register-edu/blob/main/README.md)/[English](https://github.com/xiaokun567/register-edu/blob/main/READMEUS.md)
+
 免费的二级域名Edu
 本平台是一个专为教育用途提供免费二级域名分发、解析和管理服务的平台。其目标用户包括教育工作者、学生及相关机构，旨在为他们提供便捷、安全的域名服务。
 
