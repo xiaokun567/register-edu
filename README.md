@@ -10,6 +10,10 @@
 
 **如遇不可抗力因素（如自然灾害、法律法规变更或系统性风险等），平台有权在必要时暂停或终止服务，敬请用户理解与支持。如果没有应该会长期开放。**
 
+**已经升级DNSPod企业版，支持1ms ttl、国内外多个DNS节点、等等**
+![image](https://github.com/user-attachments/assets/2088ae3a-9d90-49ae-8d84-e03401a3f9fd)
+
+
 [官网链接](https://regdm.edu.deal)：https://regdm.edu.deal
 
 请详细阅读[用户协议](https://regdm.edu.deal/static/user_agreement.html)。强调：禁止用途与行为
