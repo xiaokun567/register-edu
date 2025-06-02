@@ -12,6 +12,10 @@ Each new user is granted a subdomain with a default validity of 300 days. Renewa
 
 **In the event of force majeure (e.g., natural disasters, changes in laws and regulations, or systemic risks), the platform reserves the right to suspend or terminate services as necessary. However, unless such circumstances arise, the platform is intended to remain open long-term.**
 
+**DNSPod Enterprise Edition has been upgraded to support 1ms ttl, multiple DNS nodes at home and abroad, etc.**
+![image](https://github.com/user-attachments/assets/ec0dfa2a-7670-4a9f-bd02-1091205c364d)
+
+
 [Official Website](https://regdm.edu.deal): https://regdm.edu.deal
 
 Please read our [User Agreement](https://regdm.edu.deal/static/user_agreement.html) carefully.
